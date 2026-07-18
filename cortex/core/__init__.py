@@ -1,0 +1,1 @@
+"""Core messages and configuration."""
